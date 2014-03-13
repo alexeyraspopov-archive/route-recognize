@@ -9,3 +9,9 @@
 	/path/*somethinglong/:andnot
 	/:chapter/:slide?
 	/path/:id/*somethinglong?/:andnot
+
+## TODO
+
+ - Error handling
+ - Params parsing
+ - API implementation

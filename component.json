@@ -1,0 +1,8 @@
+{
+  "name": "route-recognizer",
+  "version": "0.0.1",
+  "description": "Lightweight route recognizer",
+  "license": "MIT",
+  "main": "index.js",
+  "author": "Alexey Raspopov (https://github.com/alexeyraspopov)"
+}

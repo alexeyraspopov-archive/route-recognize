@@ -2,9 +2,12 @@
   "name": "route-recognizer",
   "version": "0.0.1",
   "description": "Lightweight route recognizer",
-  "license": "MIT",
   "main": "index.js",
-  "author": "Alexey Raspopov (https://github.com/alexeyraspopov)",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Alexey Raspopov <avenger7x13@gmail.com> (https://github.com/alexeyraspopov)",
+  "license": "MIT",
   "devDependencies": {
     "gulp": "^3.5.5",
     "gulp-jshint": "^1.5.0",

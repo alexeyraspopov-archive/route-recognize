@@ -24,6 +24,12 @@ TBD
 
 TBD
 
+## TODO
+
+ - Error handling
+ - Params parsing
+ - API implementation
+
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License) (c) Alexey Raspopov

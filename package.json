@@ -14,6 +14,10 @@
     "karma-ie-launcher": "^0.1.1",
     "karma-jasmine": "^0.1.5",
     "karma": "^0.10.9",
-    "gulp-karma": "0.0.2"
+    "gulp-karma": "0.0.2",
+    "gulp-rename": "^1.2.0",
+    "jshint-stylish": "^0.1.5",
+    "gulp-complexity": "^0.2.1",
+    "gulp-wrap-exports": "^0.2.0"
   }
 }

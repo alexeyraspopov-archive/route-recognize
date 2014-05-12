@@ -1,19 +1,19 @@
-# route-recognizer
+# route-recognize
 
 Lightweight route recognizer
 
 ## Install
 
 ```bash
-$ npm install route-recognizer
+$ npm install route-recognize
 ```
 
 ```bash
-$ component install alexeyraspopov/route-recognizer
+$ component install alexeyraspopov/route-recognize
 ```
 
 ```bash
-$ bower install route-recognizer
+$ bower install route-recognize
 ```
 
 ## API
